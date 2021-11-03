@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: The Blockchain API
 ---
 
 {% for tag in site.tags %}
