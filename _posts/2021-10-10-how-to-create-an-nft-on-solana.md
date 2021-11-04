@@ -20,7 +20,7 @@ First, get an API key pair. Go to <a target="_blank" href="https://dashboard.the
 
 ### Mint the NFT
 
-We will use the Blockchain API’s <a href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft/post">endpoint for creating an NFT</a>.
+We will use the Blockchain API’s <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft/post">endpoint for creating an NFT</a>.
 
 Once we have the prerequisites set up, minting the NFT consists of a single API call.
 
@@ -53,9 +53,9 @@ print(response.json())
 
 The API call takes about 60 seconds to complete, after which you will get back the NFT mint info!
 
-You can check it out on the <a href="https://explorer.solana.com/address/AH9PQLt4ksW4FhoCSGzjcwPjzpnhUbhZEwFrdDYyMjA?cluster=devnet">Solana explorer</a> by going to explorer/solana.com/address/{mint_address}?cluster=devnet, where in our case the mint address is AH9PQLt4ksW4FhoCSGzjcwPjzpnhUbhZEwFrdDYyMjA. Make sure to select the devnet network when viewing it on the block explorer.
+You can check it out on the <a target="_blank" href="https://explorer.solana.com/address/AH9PQLt4ksW4FhoCSGzjcwPjzpnhUbhZEwFrdDYyMjA?cluster=devnet">Solana explorer</a> by going to explorer/solana.com/address/{mint_address}?cluster=devnet, where in our case the mint address is AH9PQLt4ksW4FhoCSGzjcwPjzpnhUbhZEwFrdDYyMjA. Make sure to select the devnet network when viewing it on the block explorer.
 
-If you have any questions, please email us at info [[at]] theblockchainapi.com or <a href="https://github.com/BL0CK-X/the-blockchain-api/issues/new">open a GitHub issue</a>.
+If you have any questions, please email us at info [[at]] theblockchainapi.com or <a target="_blank" href="https://github.com/BL0CK-X/the-blockchain-api/issues/new">open a GitHub issue</a>.
 
 [comment]: <> (#### Some T-SQL Code)
 
