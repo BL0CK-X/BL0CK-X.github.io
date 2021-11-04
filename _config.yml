@@ -4,19 +4,22 @@ description: "We post mini-tutorials on how to use our API." # This will show up
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "info@theblockchainapi.com"
-twitter_username: "_BlockX_"
-github_username: "BL0CK-X"
-#linkedin_username: "company/the-blockchain-api"
-calendly: "josh-wolff-7/blockx-chat"
-youtube: "c/UCtZh22T-0gjNlPi2FWeoRWg"
-telephone: "+1 415 888 4745"
-#facebook_username: username
-#flickr_username: username
-#instagram_username: username
-#pinterest_username: username
-#youtube_username: username
-#googleplus_username: +username
+social-network-links:
+  rss: false
+  email: "info@theblockchainapi.com"
+  twitter_username: "_BlockX_"
+  github_username: "BL0CK-X"
+  #linkedin_username: "company/the-blockchain-api"
+  calendly: "josh-wolff-7/blockx-chat"
+  youtube: "c/UCtZh22T-0gjNlPi2FWeoRWg"
+  telephone: "+1 415 888 4745"
+  discord: "https://discord.gg/d49yzrZRAF"
+  #facebook_username: username
+  #flickr_username: username
+  #instagram_username: username
+  #pinterest_username: username
+  #youtube_username: username
+  #googleplus_username: +username
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
