@@ -1,6 +1,6 @@
 ## How to create an NFT on Solana
 
-Creating an NFT on Solana can be difficult because the infrastructure for doing so is so new. Here, I’ll explain how to do it with The Blockchain API, which is an API that simplifies many functions you may wish to perform on Solana. If you have a feature request, consider creating one on our GitHub repository.
+Creating an NFT on Solana can be difficult because the infrastructure for doing so is so new. Here, I’ll explain how to do it with <a href="https://theblockchainapi.com/">The Blockchain API</a>, which is an API that simplifies many functions you may wish to perform on Solana. If you have a feature request, consider creating one on our GitHub repository.
 
 In this tutorial, we will use Python, but we won’t use any special Python libraries, so you can use any language.
 
