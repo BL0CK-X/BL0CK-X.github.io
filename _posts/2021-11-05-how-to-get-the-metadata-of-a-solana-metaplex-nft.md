@@ -1,8 +1,8 @@
 ## How to get a Solana Metaplex NFT's Metadata
 
-To get the metadata of a Solana Metaplex NFT, we will use The Blockchain API's "Get an NFT's metadata" endpoint.
+To get the metadata of a Solana <a target="_blank" href="https://metaplex.com/">Metaplex NFT</a>, we will use The Blockchain API's <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft/get">"Get an NFT's metadata" endpoint</a>.
 
-The Blockchain API makes it easy to perform common functions on the blockchain by using a simple API, rather than figuring out the steep learning curve or unclear documentation.
+<a target="_blank" href="https://docs.theblockchainapi.com/">The Blockchain API</a> makes it easy to perform common functions on the blockchain by using a simple API, rather than figuring out the steep learning curve or unclear documentation.
 
 ### Step 1: Get the NFT's address
 
@@ -13,7 +13,7 @@ This will bring you to a link like this:
 https://explorer.solana.com/address/2pQPtnFm2mgXZrVWyNdcf5Qf2TWBGkTAeKZJhPjsc7Jn
 ```
 
-Where `2pQPtnFm2mgXZrVWyNdcf5Qf2TWBGkTAeKZJhPjsc7Jn` is the address you need.
+Where <a target="_blank" href="https://explorer.solana.com/address/2pQPtnFm2mgXZrVWyNdcf5Qf2TWBGkTAeKZJhPjsc7Jn">`2pQPtnFm2mgXZrVWyNdcf5Qf2TWBGkTAeKZJhPjsc7Jn`</a> is the address you need.
 
 ### Step 2: Select the network
 
@@ -21,7 +21,7 @@ Determine whether the NFT is saved on the devnet or mainnet-beta. You will need 
 
 ### Step 3: Get an API key pair for free
 
-Before making the API call, you must create an API key here. Save the key ID and the secret key.
+Before making the API call, you must create an API key <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=subdomain-get-nft-metadata">here</a>. Save the key ID and the secret key.
 
 ### Step 4: Make the API request
 
