@@ -187,6 +187,12 @@ Instead, you can use the Blockchain API's Python wrapper to transfer SOL. This c
 pip install theblockchainapi
 ```
 
+Import the necessary classes.
+
+```
+from theblockchainapi import TheBlockchainAPIResource, SolanaCurrencyUnit, SolanaNetwork
+```
+
 Initialize the resource with your API key pair.
 
 ```
