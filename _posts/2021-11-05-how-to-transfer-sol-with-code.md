@@ -1,12 +1,12 @@
 ## How to transfer SOL with code
 
-Need to programmatically transfer SOL? The Blockchain API has a "Transfer SOL, a token, or an NFT to another address" API endpoint. This will enable you to transfer an asset on the Solana blockchain reliably and easily in any coding language.
+Need to programmatically transfer SOL? <a target="_blank" href="https://theblockchainapi.com">The Blockchain API</a> has a <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-Wallet/paths/~1v1~1solana~1wallet~1transfer/post">"Transfer SOL, a token, or an NFT to another address" API endpoint</a>. This will enable you to transfer an asset on the Solana blockchain reliably and easily in any coding language.
 
-### Step 1: Get a free API key pair
+### Step 1: Get a free API key pair
 
-First, get a free API key pair here.
+First, get a free API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=subdomain-transfer-sol">here</a>.
 
-### Step 2: Write the Transfer SOL request
+### Step 2: Write the Transfer SOL request
 
 If you're going to use Python, I highly suggest going to Step 3. The purpose of Step 2 is to show people using other languages how to write the raw API requests.
 
@@ -55,7 +55,7 @@ The output should be:
 escape glow bracket drop clip divert sentence minor actual mansion kangaroo entire
 ```
 
-Now, let's generate a public key from this phrase. Note that a public key is made up of a secret phrase (generated above), a derivation path, and a passphrase. We will use the API's default derivation path and passphrase.
+Now, let's generate a public key from this phrase. Note that a public key is made up of a secret phrase (generated above), a derivation path, and a passphrase. We will use the API's default derivation path and passphrase. So, we won't provide the values for these in our request. You can read more about derivation paths on Solana <a target="_blank" href="https://blog.theblockchainapi.com/2021/10/10/derivation-paths-on-solana.html">here</a>.
 
 ```
 response = requests.post(
@@ -177,11 +177,11 @@ Balance: 0.0
 
 Great! Nothing like a 0 balance.
 
-If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or another method.
+If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or <a target="_blank" href="https://dashboard.theblockchainapi.com/contact">another method</a>.
 
-### [Optional] Step 3: Use the Blockchain API's Python wrapper to transfer SOL
+### [Optional] Step 3: Use the Blockchain API's Python wrapper to transfer SOL
 
-Instead, you can use the Blockchain API's Python wrapper to transfer SOL. This can make development easier instead of having to rewrite the functions we already wrapped using the requests library. To get started, install our PyPi package.
+Instead, you can use the Blockchain API's Python wrapper to transfer SOL. This can make development easier instead of having to rewrite the functions we already wrapped using the requests library. To get started, install our <a target="_blank" href="https://pypi.org/project/theblockchainapi/">PyPi package</a>.
 
 ```
 pip install theblockchainapi
@@ -314,4 +314,4 @@ Balance: 0.0
 
 Great! Nothing like a 0 balance.
 
-If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or another method.
+If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or <a target="_blank" href="https://dashboard.theblockchainapi.com/contact">another method</a>.
