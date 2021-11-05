@@ -43,6 +43,8 @@ response = requests.post(
         "APIKeyId": "YOUR KEY ID"
     }
 )
+
+print(response.json())
 ```
 
 The output will look something like this:
