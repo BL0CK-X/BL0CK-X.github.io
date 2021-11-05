@@ -8,7 +8,7 @@ First, get a free API key pair <a target="_blank" href="https://dashboard.theblo
 
 ### Step 2: Write the Transfer SOL request
 
-If you're going to use Python, I highly suggest going to Step 3. The purpose of Step 2 is to show people using other languages how to write the raw API requests.
+If you're going to use Python, <b>I highly suggest skipping to Step 3</b>. The purpose of Step 2 is to show people using other languages how to write the raw API requests.
 
 We will implement the transfer request using Python's requests library.
 
