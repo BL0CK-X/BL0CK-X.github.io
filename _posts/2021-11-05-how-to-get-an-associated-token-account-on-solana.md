@@ -28,6 +28,8 @@ SERUM_TOKEN_ADDRESS = "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt"
 TEST_PHRASE = "fire owner display success half rescue pledge oval foam gossip window once"
 DERIVATION_PATH = "m/44/501/0/0"
 
+SOLANA_WALLET_ATA_ENDPOINT = "https://api.theblockchainapi.com/v1/solana/wallet/associated_token_account"
+
 response = requests.post(
     SOLANA_WALLET_ATA_ENDPOINT,
     params={
