@@ -304,7 +304,7 @@ The output should be:
 5pWrB5SKoSAAfFqVFvvhyoUnxJGdY9gBQtuEbevVRgEHWybKGjBb7HfJXJVMM8xSijJ56EdoSohDGtmxzjuQpW46
 ```
 
-You can view this transaction on the Solana blockchain here: https://explorer.solana.com/tx/5pWrB5SKoSAAfFqVFvvhyoUnxJGdY9gBQtuEbevVRgEHWybKGjBb7HfJXJVMM8xSijJ56EdoSohDGtmxzjuQpW46?cluster=devnet
+You can view this transaction on the Solana blockchain <a target="_blank" href="https://explorer.solana.com/tx/5pWrB5SKoSAAfFqVFvvhyoUnxJGdY9gBQtuEbevVRgEHWybKGjBb7HfJXJVMM8xSijJ56EdoSohDGtmxzjuQpW46?cluster=devnet">here</a>.
 
 Now check your balance. You should have 0 SOL.
 
