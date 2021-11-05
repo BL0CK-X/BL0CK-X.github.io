@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="339bb633-12d0-4932-aa4e-661526f9be39" name="Changes" comment="" />
+    <list default="true" id="339bb633-12d0-4932-aa4e-661526f9be39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2021-11-05-how-to-get-the-metadata-of-a-solana-metaplex-nft.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +25,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="20Qhvop3ImAeBLlk5x4vBSXWjhh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
