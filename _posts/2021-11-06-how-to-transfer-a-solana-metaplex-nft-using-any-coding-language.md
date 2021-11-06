@@ -179,7 +179,7 @@ Output:
 61Wpy1aJLEeYh3ZPAiqmkMMdhRA3UKvs3WAhPyFhgCENRuHwMcAQT4cT5e2R3rcFFeRS8LZt1WHw6c9HoSU3nMXg
 ```
 
-To confirm that the transaction went through, let's check it on Solana via the explorer: https://explorer.solana.com/tx/61Wpy1aJLEeYh3ZPAiqmkMMdhRA3UKvs3WAhPyFhgCENRuHwMcAQT4cT5e2R3rcFFeRS8LZt1WHw6c9HoSU3nMXg?cluster=devnet
+To confirm that the transaction went through, let's check it on <a target="_blank" href="https://explorer.solana.com/tx/61Wpy1aJLEeYh3ZPAiqmkMMdhRA3UKvs3WAhPyFhgCENRuHwMcAQT4cT5e2R3rcFFeRS8LZt1WHw6c9HoSU3nMXg?cluster=devnet">Solana via the explorer</a>.
 
 If you scroll down to "Token Balances," you can see the "Change" in the amount of token (-1 from one address, +1 to another). The token address should match the mint_address provided.
 
