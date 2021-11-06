@@ -185,9 +185,11 @@ If you scroll down to "Token Balances," you can see the "Change" in the amount o
 
 The address column (left column) represents the associated token address, which is owned by the public key addresses you provided (one for your wallet, one for the receiving wallet). You can learn more about associated token <a target="_blank" href="https://blog.theblockchainapi.com/2021/11/05/how-to-get-an-associated-token-account-on-solana.html">accounts here</a>.
 
+<img src="https://theblockchainapi-blog.s3.amazonaws.com/how-to-transfer-a-solana-metaplex-nft-using-any-coding-language/1_ISAfPGvsNrJzO83e4i42lQ.png"/>
+
 If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or <a target="_blank" href="https://dashboard.theblockchainapi.com/contact">another method</a>.
 
-### [Optional] Step 3: Use the Blockchain API's Python wrapper to transfer an NFT
+### [Optional] Step 3: Use the Blockchain API's Python wrapper to transfer an NFT
 
 Instead, you can use the Blockchain API's Python wrapper to transfer an NFT. This can make development easier instead of having to rewrite the functions we already wrapped using the requests library. To get started, install our <a href="https://pypi.org/project/theblockchainapi/" target="_blank">PyPi package</a>.
 
@@ -315,5 +317,7 @@ You can view this transaction on the Solana blockchain <a target="_blank" href="
 If you scroll down to "Token Balances," you can see the "Change" in the amount of token (-1 from one address, +1 to another). The token address should match the mint_address provided.
 
 The address column (left column) represents the associated token address, which is owned by the public key addresses you provided (one for your wallet, one for the receiving wallet). You can learn more about associated token <a target="_blank" href="https://blog.theblockchainapi.com/2021/11/05/how-to-get-an-associated-token-account-on-solana.html">accounts here</a>.
+
+<img src="https://theblockchainapi-blog.s3.amazonaws.com/how-to-transfer-a-solana-metaplex-nft-using-any-coding-language/1_87spng1_GwRzRzDZBZzMdA.png"/>
 
 If you have any questions, feature requests, or issues, don't hesitate to reach out via email (info [[at]] theblockchainapi.com) or <a target="_blank" href="https://dashboard.theblockchainapi.com/contact">another method</a>.
