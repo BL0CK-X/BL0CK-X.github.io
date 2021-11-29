@@ -22,7 +22,7 @@ This will use the CLI’s default derivation path.
 
 Enter the mnemonic phrase and passphrase when prompted. Ensure that the public key returned is what you were expecting. If so, enter “y.”
 
-<em>If you don’t have a mnemonic phrase yet, generate one easily with the Blockchain API’s endpoint <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-Wallet/paths/~1v1~1solana~1wallet~1secret_recovery_phrase/post">here</a>. </em>
+<em>If you don’t have a mnemonic phrase yet, generate one easily with the Blockchain API’s endpoint <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaGenerateSecretRecoveryPhrase">here</a>. </em>
 
 If not, you might have created the wallet with a separate interface (e.g., Phantom wallet), which uses a different derivation path. To see our tutorial on Solana derivation paths, see here.
 
@@ -39,7 +39,7 @@ solana airdrop 1 8m24W8DvoJ9p1ANDcNbyZMQTgPV9Vrr8DtxApsE4oBTQ
 If Solana returns a 429 error (too many requests) or other such error, try connecting via a VPN to get a new IP address.
 
 If you do get a 429, which you will inevitably run into if using in production or frequently at all, you can use our
-<a href="https://docs.theblockchainapi.com/#tag/Solana-Wallet/paths/~1v1~1solana~1wallet~1airdrop/post" target="_blank">airdrop endpoint</a> for reliably and predictably getting an airdrop!
+<a href="https://docs.theblockchainapi.com/#operation/solanaGetAirdrop" target="_blank">airdrop endpoint</a> for reliably and predictably getting an airdrop!
 
 Hope this helps! 
 

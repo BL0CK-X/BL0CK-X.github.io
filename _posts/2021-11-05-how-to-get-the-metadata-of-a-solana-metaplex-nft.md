@@ -1,6 +1,6 @@
 ## How to get a Solana Metaplex NFT's Metadata
 
-To get the metadata of a Solana <a target="_blank" href="https://metaplex.com/">Metaplex NFT</a>, we will use The Blockchain API's <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft/get">"Get an NFT's metadata" endpoint</a>.
+To get the metadata of a Solana <a target="_blank" href="https://metaplex.com/">Metaplex NFT</a>, we will use The Blockchain API's <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaGetNFT">"Get an NFT's metadata" endpoint</a>.
 
 <a target="_blank" href="https://docs.theblockchainapi.com/">The Blockchain API</a> makes it easy to perform common functions on the blockchain by using a simple API, rather than figuring out the steep learning curve or unclear documentation.
 
@@ -21,7 +21,7 @@ Determine whether the NFT is saved on the devnet or mainnet-beta. You will need 
 
 ### Step 3: Get an API key pair for free
 
-Before making the API call, you must create an API key <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=subdomain-get-nft-metadata">here</a>. Save the key ID and the secret key.
+Before making the API call, you must create an API key <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-get-nft-metadata">here</a>. Save the key ID and the secret key.
 
 ### Step 4: Make the API request
 

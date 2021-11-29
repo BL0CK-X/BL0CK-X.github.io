@@ -1,8 +1,8 @@
 ### How to get a Solana Metaplex candy machine’s price, supply, items available, and go live date
 
-To get info about a Metaplex candy machine, we will use <a target="_blank" href="https://theblockchainapi.com">the Blockchain API</a>. Specifically we will use the "Get a Metaplex candy machine's details" endpoint, documented <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft~1candy_machine~1info/post">here</a>.
+To get info about a Metaplex candy machine, we will use <a target="_blank" href="https://theblockchainapi.com">the Blockchain API</a>. Specifically we will use the "Get a Metaplex candy machine's details" endpoint, documented <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaGetCandyMachineDetails">here</a>.
 
-First, create and save an API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys">here</a>.
+First, create and save an API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-get-candy-details">here</a>.
 
 Now retrieve the candy machine ID of the candy machine. For some help on how to do this, see this article.
 

@@ -1,10 +1,10 @@
 ## How to transfer SOL with code
 
-Need to programmatically transfer SOL? <a target="_blank" href="https://theblockchainapi.com">The Blockchain API</a> has a <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-Wallet/paths/~1v1~1solana~1wallet~1transfer/post">"Transfer SOL, a token, or an NFT to another address" API endpoint</a>. This will enable you to transfer an asset on the Solana blockchain reliably and easily in any coding language.
+Need to programmatically transfer SOL? <a target="_blank" href="https://theblockchainapi.com">The Blockchain API</a> has a <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaTransfer">"Transfer SOL, a token, or an NFT to another address" API endpoint</a>. This will enable you to transfer an asset on the Solana blockchain reliably and easily in any coding language.
 
 ### Step 1: Get a free API key pair
 
-First, get a free API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=subdomain-transfer-sol">here</a>.
+First, get a free API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-transfer-sol">here</a>.
 
 ### Step 2: Write the Transfer SOL request
 

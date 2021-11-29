@@ -1,12 +1,12 @@
 ### How to create a test Metaplex candy machine
 
-We will use <a href="https://theblockchainapi.com/" target="_blank">the Blockchain API</a> for this tutorial. Specifically, we will use the "Create a test Metaplex candy machine" endpoint, available <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft~1candy_machine/post">here</a>.
+We will use <a href="https://theblockchainapi.com/" target="_blank">the Blockchain API</a> for this tutorial. Specifically, we will use the "Create a test Metaplex candy machine" endpoint, available <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaCreateTestCandyMachine">here</a>.
 
 We setup an API endpoint to easily create a test Metaplex candy machine with 2 NFTs available for minting.
 
 The purpose is to enable you to test your code that interacts with real candy machines.
 
-To get started, first get an API key pair for free <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys">here</a>.
+To get started, first get an API key pair for free <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-create-test-candy">here</a>.
 
 Then, install the Python wrapper.
 

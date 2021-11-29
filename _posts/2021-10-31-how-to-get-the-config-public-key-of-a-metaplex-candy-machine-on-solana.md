@@ -1,19 +1,19 @@
 ## How to get the config public key of a Metaplex candy machine on Solana
 
 You might need to retrieve the config public key of a candy machine. This might allow you to perform some function, such as retrieving data about the candy machine’s setup.
-To do so, we can use the Blockchain API. Specifically, we will use the <a target="_blank" target="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft~1candy_machine~1config/post">“Get the candy machine config address” endpoint</a>. You can find more information about this endpoint on <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-NFT/paths/~1v1~1solana~1nft~1candy_machine~1config/post">the docs</a>.
+To do so, we can use the Blockchain API. Specifically, we will use the <a target="_blank" target="https://docs.theblockchainapi.com/#operation/solanaGetCandyMachineDetails">“Get the candy machine config address” endpoint</a>. You can find more information about this endpoint on <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaGetCandyMachineDetails">the docs</a>.
 
 First, install the Python wrapper.
 
 ```pip install theblockchainapi```
 
 To get the config public key, you’ll need:
-- An API key pair (get one for free <a target="_blank" href="https://dashboard.theblockchainapi.com/">here</a>)
+- An API key pair (get one for free <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-get-config-public-key">here</a>)
 - The candy machine ID (see how to get one <a target="_blank" href="https://medium.com/@josh.wolff.7/how-to-get-a-metaplex-candy-machine-id-d8f39d67162c">here</a>)
 
 After getting your API key ID and your API secret key, call the `get_candy_machine_config_public_key` function.
 
-We are citing <a target="_blank" href="https://github.com/BL0CK-X/the-blockchain-api/tree/main/examples/solana-candy-machine/get-config-address">the example found here</a>.
+We are citing <a target="_blank" href="https://github.com/BL0CK-X/the-blockchain-api/tree/main/examples/solana-candy-machine/get-candy-machine-info">the example found here</a>.
 
 ```
 from theblockchainapi import TheBlockchainAPIResource, SolanaNetwork 

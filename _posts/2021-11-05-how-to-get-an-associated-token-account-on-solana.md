@@ -6,12 +6,12 @@ Each wallet can correspond to ownership over many types of tokens, but in Solana
 
 ### How To
 
-To derive the endpoint, we will use <a href="https://theblockchainapi.com/" target="_blank">the Blockchain API</a>. Specifically, we will use the <a target="_blank" href="https://docs.theblockchainapi.com/#tag/Solana-Wallet/paths/~1v1~1solana~1wallet~1associated_token_account/post">"Derive an associated token account address" endpoint</a>.
+To derive the endpoint, we will use <a href="https://theblockchainapi.com/" target="_blank">the Blockchain API</a>. Specifically, we will use the <a target="_blank" href="https://docs.theblockchainapi.com/#operation/solanaDeriveAssociatedTokenAccountAddress">"Derive an associated token account address" endpoint</a>.
 With this endpoint, you can derive an associated token address given a wallet and a token address.
 
 ### Step 1: Get a free API key pair
 
-First get a free API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=subdomain-get-ata">here</a>.
+First get a free API key pair <a target="_blank" href="https://dashboard.theblockchainapi.com/api-keys?blog=direct-get-ata">here</a>.
 
 ### Step 2: Write and send the API request
 
