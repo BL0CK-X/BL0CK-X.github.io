@@ -24,7 +24,7 @@ First, it must be JSON formatted. Second, it must follow the format as outlined 
 
 See this JSON schema example for how to format the JSON for your NFT.
 
-`
+```json
 {
     "name": "Solflare X NFT",
     "symbol": "",
@@ -76,7 +76,7 @@ See this JSON schema example for how to format the JSON for your NFT.
         ]
     }
 }
-`
+```
 
 ### What the JSON fields do
 
